@@ -58,7 +58,9 @@
     "wpackagist-theme/hello-elementor": "^2.9",
     "wenmark/gravityforms": "2.7.17.1",
     "wpengine/advanced-custom-fields-pro": "^6.2",
-    "wenmark/ithemes-security-pro": "^8.2"
+    "wenmark/ithemes-security-pro": "^8.2",
+    "wpackagist-plugin/wordpress-seo": "^21.6",
+    "wpackagist-plugin/duplicate-post": "^4.5"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.7.1",
