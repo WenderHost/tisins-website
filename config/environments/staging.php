@@ -15,3 +15,5 @@ use Roots\WPConfig\Config;
  */
 
 Config::define('DISALLOW_INDEXING', true);
+Config::define('WP_MEMORY_LIMIT', '256M' );
+Config::define('WP_MAX_MEMORY_LIMIT', '512M' );
