@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1feae57344d1bde30b1b38666dfd8f81",
+    "content-hash": "8eb7d6366bee2b385abe0fba145cd023",
     "packages": [
         {
             "name": "composer/installers",
@@ -1220,6 +1220,24 @@
             "homepage": "https://solidwp.com/products/security"
         },
         {
+            "name": "wpackagist-plugin/accessibility-checker",
+            "version": "1.7.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/accessibility-checker/",
+                "reference": "tags/1.7.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/accessibility-checker.1.7.1.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/accessibility-checker/"
+        },
+        {
             "name": "wpackagist-plugin/duplicate-post",
             "version": "4.5",
             "source": {
@@ -2239,5 +2257,5 @@
         "php": ">=8.0"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.3.0"
+    "plugin-api-version": "2.6.0"
 }
