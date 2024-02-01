@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8eb7d6366bee2b385abe0fba145cd023",
+    "content-hash": "7d5d51c9afda5c8b2daeaea7919e3a2c",
     "packages": [
         {
             "name": "composer/installers",
@@ -1218,6 +1218,25 @@
             },
             "description": "Shield your site from cyberattacks and prevent security vulnerabilities. The only security plugin you need for a solid foundation.",
             "homepage": "https://solidwp.com/products/security"
+        },
+        {
+            "name": "wenmark/wordpress-seo-premium",
+            "version": "21.9",
+            "dist": {
+                "type": "zip",
+                "url": "https://packages.wenmarkdigital.com/satispress/wordpress-seo-premium/21.9",
+                "shasum": "4c1740b57fce64d8689f6ac7b49ed86bf769f2af"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "authors": {
+                "name": "Team Yoast",
+                "homepage": "https://yoa.st/team-yoast-premium"
+            },
+            "description": "The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more.",
+            "homepage": "https://yoa.st/2jc"
         },
         {
             "name": "wpackagist-plugin/accessibility-checker",
