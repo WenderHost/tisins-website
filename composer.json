@@ -65,7 +65,8 @@
     "wpackagist-plugin/redirection": "^5.4",
     "wpackagist-plugin/host-analyticsjs-local": "^4.7",
     "wpackagist-plugin/accessibility-checker": "^1.7",
-    "wenmark/wordpress-seo-premium": "^21.9"
+    "wenmark/wordpress-seo-premium": "^21.9",
+    "wpackagist-plugin/insert-headers-and-footers": "^2.1"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.7.1",
