@@ -59,13 +59,13 @@
     "wenmark/gravityforms": "2.7.17.1",
     "wpengine/advanced-custom-fields-pro": "^6.2",
     "wenmark/ithemes-security-pro": "^8.2",
-    "wpackagist-plugin/wordpress-seo": "^21.6",
+    "wpackagist-plugin/wordpress-seo": "^26",
     "wpackagist-plugin/duplicate-post": "^4.5",
     "wpackagist-plugin/safe-svg": "^2.2",
     "wpackagist-plugin/redirection": "^5.4",
-    "wpackagist-plugin/host-analyticsjs-local": "^4.7",
+    "wpackagist-plugin/host-analyticsjs-local": "^5",
     "wpackagist-plugin/accessibility-checker": "^1.7",
-    "wenmark/wordpress-seo-premium": "^21.9",
+    "wenmark/wordpress-seo-premium": "^26",
     "wpackagist-plugin/insert-headers-and-footers": "^2.1"
   },
   "require-dev": {

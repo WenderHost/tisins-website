@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "de71ffed3f3e8a1f7101ccfa8eb8096a",
+    "content-hash": "7ac74b49e9b7bb26a648ff2df088777a",
     "packages": [
         {
             "name": "composer/installers",
@@ -1230,11 +1230,11 @@
         },
         {
             "name": "wenmark/wordpress-seo-premium",
-            "version": "21.9",
+            "version": "26.1",
             "dist": {
                 "type": "zip",
-                "url": "https://packages.wenmarkdigital.com/satispress/wordpress-seo-premium/21.9",
-                "shasum": "4c1740b57fce64d8689f6ac7b49ed86bf769f2af"
+                "url": "https://packages.wenmarkdigital.com/satispress/wordpress-seo-premium/26.1",
+                "shasum": "34cee55031d6fd2ec8e6c6777dfd89ced1324528"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1305,15 +1305,15 @@
         },
         {
             "name": "wpackagist-plugin/host-analyticsjs-local",
-            "version": "4.8.7",
+            "version": "5.0.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/host-analyticsjs-local/",
-                "reference": "tags/4.8.7"
+                "reference": "tags/5.0.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/host-analyticsjs-local.4.8.7.zip"
+                "url": "https://downloads.wordpress.org/plugin/host-analyticsjs-local.5.0.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1413,15 +1413,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "21.9.1",
+            "version": "26.1.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/21.9.1"
+                "reference": "tags/26.1.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.21.9.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.26.1.1.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
